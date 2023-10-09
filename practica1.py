@@ -2,7 +2,7 @@ import requests
 import csv
 
 # URL of the CSV file you want to download
-csv_url = "https://example.com/path/to/your/csv/file.csv"
+csv_url = "https://raw.githubusercontent.com/Sergio-Gtz-V/DataMining/main/games_updated.csv"
 
 # Define the local file where you want to save the CSV data
 local_file_path = "downloaded_file.csv"
